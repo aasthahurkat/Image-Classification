@@ -1,4 +1,4 @@
-# Report for Assignment 4
+# Description
 
 
 ## KNN
@@ -77,5 +77,5 @@ Back propogation
 This is training our neural network. Once trained, we can test it.
 
 
-Accuracy : 30%
+Accuracy : 65%
   
